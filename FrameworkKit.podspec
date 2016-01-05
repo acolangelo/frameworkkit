@@ -39,7 +39,7 @@ SOFTWARE.
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   # FIXME add tag 0.0.1 (see output pod spec lint)
-  s.source       = { :git => "https://github.com/acolangelo/frameworkkit.git" }
+  s.source       = { :git => "https://github.com/acolangelo/frameworkkit.git", :tag => "0.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files = "FrameworkKit/**/*.{swift}"
