@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         var example = ExampleClass()
-        println(example.test())
+        print(example.test())
     }
 
 }
